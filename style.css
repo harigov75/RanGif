@@ -20,9 +20,9 @@ body {
 	}
 }
 
-.giftrain{
-    display:grid;
-    
+body{
+    overflow-y: hidden;
+
 }
 
 
@@ -54,7 +54,7 @@ body {
 
 .gifplayer{
     max-height: 500px;
-    max-width: 1000px;
+    max-width: 100%;
 }
 
 .btn{
